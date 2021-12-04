@@ -1,0 +1,30 @@
+*{
+    text-align: center;
+}
+
+body {
+    background-color: rgb(242, 217, 191);
+}
+
+h1 {
+    padding-top: 20px;
+    margin-top:50%; 
+    color: black;
+    font-family: 'Nobile', sans-serif;
+}
+
+button {
+    background-color:rgb(228, 162, 68);
+    color: aliceblue;
+}
+
+p {
+    padding-bottom: 20px;
+}
+
+.content {
+background-color: whitesmoke;
+border-radius: 25px;
+margin-left: 20%;
+margin-right: 20%;
+}
